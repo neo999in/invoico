@@ -3,7 +3,7 @@
   <img src="assets/icon.png" alt="Invoico Logo" width="120" height="120" />
   <br />
   <br />
-  <a href="https://github.com/neo999in/invoico/releases">
+  <a href="https://github.com/neo999in/invoico/releases/download/v1.0.0/app-release.apk">
     <img src="assets/download.svg" alt="Download Button" width="220" />
   </a>
 </div>
