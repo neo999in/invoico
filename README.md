@@ -46,9 +46,9 @@ Before you begin, ensure you have met the following requirements:
 ---
 
 ### 🛠 Tech Stack
-<a href="https://flutter.dev/"><img src="https://img.shields.io/badge/Flutter-00CCFF?labelColor=333333&logo=Flutter&logoColor=00CCFF" height="40" width="132" align="left"></a>
+<a href="https://flutter.dev/"><img src="https://img.shields.io/badge/Flutter-00CCFF?labelColor=333333&logo=Flutter&logoColor=00CCFF" height="40" width="142" align="left"></a>
 <a href="https://dart.dev/"><img src="https://img.shields.io/badge/Dart-40C4FF?labelColor=333333&logo=Dart&logoColor=40C4FF" height="40" width="118" align="left"></a>
-<a href="https://sqlite.org/"><img src="https://img.shields.io/badge/SQLite-007FFF?labelColor=333333&logo=SQLite&logoColor=007FFF" height="40" width="132" align="left"></a>
+<a href="https://sqlite.org/"><img src="https://img.shields.io/badge/SQLite-007FFF?labelColor=333333&logo=SQLite&logoColor=007FFF" height="40" width="142"></a>
 <br clear="left"/>
 
 - **Key Packages**:
