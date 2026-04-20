@@ -15,6 +15,8 @@
 
 A professional and efficient invoice management and inventory tracking system designed for small to medium businesses. Manage your sales, customers, and stock all in one place with a clean, modern interface.
 
+---
+
 ### 📸 Screenshots
 <div align="center">
   <img src="assets/Screenshots.png" alt="App Screenshots" width="100%" />
@@ -72,3 +74,20 @@ cd invoico
 flutter pub get
 flutter run
 ```
+---
+
+### 📂 Folder Structure
+```text
+lib/
+├── screens/               # UI screens (Dashboard, Invoice, Inventory, etc.)
+├── main.dart              # Entry point
+├── database_helper.dart   # Database management (SQLite)
+└── pdf_generator.dart     # Invoice PDF generation logic
+```
+
+---
+
+### 📄 License
+
+Released under the <a href="./LICENSE"><img src="https://img.shields.io/github/license/neo999in/invoico" height="20" align="center"></a>
+
