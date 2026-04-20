@@ -41,9 +41,9 @@ Before you begin, ensure you have met the following requirements:
 * **Flutter SDK**: `^3.10.4` or higher.
 * **Dart SDK**: Compatible with the Flutter version.
 * **IDE**: [Android Studio](https://developer.android.com/studio) or [VS Code](https://code.visualstudio.com/) with Flutter/Dart plugins.
-* **Platform**: 
-    - **Android**: SDK 21 (Android 5.0) or higher.
-    - **Physical Device** or **Emulator/Simulator** for testing.
+* **Platform**:
+  - **Android**: SDK 21 (Android 5.0) or higher.
+  - **Physical Device** or **Emulator/Simulator** for testing.
 
 ---
 
@@ -89,5 +89,5 @@ lib/
 
 ### 📄 License
 
-Released under the <a href="./LICENSE"><img src="https://img.shields.io/github/license/neo999in/invoico" height="20" align="center"></a>
+Released under the <a href="./LICENSE"><img src="https://img.shields.io/badge/license-MIT-greens" height="20" align="center"></a>
 
